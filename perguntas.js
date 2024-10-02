@@ -2,6 +2,7 @@ criaCartao(
     'pergunta',
     'qual o nome do carro bomba br',
      'marea'
+)
 
 criaCartao(
      'pergunta',
@@ -26,7 +27,7 @@ criaCartao(
     'pergunta',
     'qual o nome do carro bomba br',
      'marea'
-
+)
 criaCartao(
      'pergunta',
     'oque o peixe falou pro outro',
@@ -43,7 +44,7 @@ criaCartao(
     'matematica',
 'quanto e 2-1?',
     '0 1 resultado'
-)   
+) 
 criaCartao(
     'matematica',
     'quanto e 5-1',
