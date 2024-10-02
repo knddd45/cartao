@@ -1,12 +1,12 @@
 criaCartao(
     'pergunta',
     'qual o nome do carro bomba br',
-     'marea',
+     'marea'
 
 criaCartao(
      'pergunta',
     'oque o peixe falou pro outro',
-    'nada',
+    'nada'
     
 )
 
@@ -24,12 +24,12 @@ criaCartao(
 )   criaCartao(
     'pergunta',
     'qual o nome do carro bomba br',
-     'marea',
+     'marea'
 
 criaCartao(
      'pergunta',
     'oque o peixe falou pro outro',
-    'vai,nada',
+    'vai,nada'
     
 )
 
